@@ -1,0 +1,5 @@
+Olá meu nome é Thiago.
+
+Nessa aula o professor Charles ensinou como criar um repositório no Github e
+em seguida como baixa-lo para o nosso computador, e depois de efetuar algumas 
+alterações no repositório como enviar essas mudan~as para o Github. 

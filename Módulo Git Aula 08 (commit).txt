@@ -1,0 +1,6 @@
+Olá meu nome é Thiago
+
+Esse exercício foi executado na aula 08
+do módulo GIT do curso EU CODO com o professor
+Charles. 
+O intuito do exercício era efetuarmos nosso primeiro commit.
