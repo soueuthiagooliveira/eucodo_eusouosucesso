@@ -1,2 +1,5 @@
 Olá, meu nome é Thiago, e esse arquivo foi criado na aula 18
 do módulo GIT do curso Eu Codo do prof. Charles.
+Nessa aula o objetivo é treinar a utilização do git e do github
+como criar um repositório no github e trasnferi-lo para nosso computador
+e como alterá-lo no computador e salvar as alterações no github.
