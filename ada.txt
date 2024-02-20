@@ -1,0 +1,2 @@
+Olá, meu nome é Thiago, e esse arquivo foi criado na aula 18
+do módulo GIT do curso Eu Codo do prof. Charles.
