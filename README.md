@@ -1,3 +1,3 @@
 # eucodo_eusouosucesso
-Como parte do exercício estou alterando o repósitório
-através do Github e em seguida vou baixar essa alteração para minha máquina.
+Olá sou o Thiago Oliveira e aqui
+estará disponível todos os exercícios feitos durante o curso Eu Codo.
